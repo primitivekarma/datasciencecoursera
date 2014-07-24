@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Homework for Data Scientist's Toolbox on coursera. 
+Homework from the Data Scientist's Toolbox course on coursera. 
